@@ -5,4 +5,5 @@
 
 3. By the way please remember to use a new branch for your new works!（￣︶￣）↗
 
-Unity version(recommended): Unity 2021.3.21f1 (I don't know what will be affected if you use Unity6 to open. You can try~)
+Unity version(recommended): Unity 2021.3.21f1 
+[I don't know what will be affected if you use Unity6 to open. You can try~)]
