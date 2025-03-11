@@ -1,6 +1,6 @@
 # Unity_2D_FakePokemon
-This is a repository for cooperation in the completion of Unity 2D project.
+1. This is a repository for cooperation in the completion of Unity 2D project.
 
-Please do git pull and push when you do something badass!( •̀ ω •́ )✧
+2. Please do git pull and push when you do something badass!( •̀ ω •́ )✧
 
-By the way please remember to use a new branch for your new works!（￣︶￣）↗　
+3. By the way please remember to use a new branch for your new works!（￣︶￣）↗　
