@@ -8,3 +8,5 @@
 <h2 style="color:red;">Unity version(recommended): Unity 2021.3.21f1 </h2>
 
 [I don't know what will be affected if you use Unity6 to open. You can try~]
+
+<h3>Package download : <a href="https://drive.google.com/drive/folders/1nx1EaKyEUD1XWANcdiADYC8ohV4B8QZC?usp=drive_link">Shared Drive</a></h3>
