@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 6bb6eb7ee957543489c33461112fb0d3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ExampleBlack_clipdrop-background-removal_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 247
+        width: 61
+        height: 80
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd9014a432cc254587af98b30e567e6
+      internalID: 1191625715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExampleBlack_clipdrop-background-removal_1
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 164
+        width: 60
+        height: 81
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde61b6261424d541948bc545fae2273
+      internalID: 662973537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExampleBlack_clipdrop-background-removal_2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 245
+        width: 60
+        height: 82
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ec674357606d34985fdec0d19085f5
+      internalID: -182049172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExampleBlack_clipdrop-background-removal_3
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 246
+        width: 61
+        height: 81
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4de52b174cdfeb4b9aaf259c26029cd
+      internalID: 1034313534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExampleBlack_clipdrop-background-removal_4
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 248
+        width: 61
+        height: 79
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7412a7dc9c9f6c4089f0799ce153ca8
+      internalID: -1894192718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExampleBlack_clipdrop-background-removal_5
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 2
+        width: 60
+        height: 79
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a05cb28518aa3e45a5a5d946dce902c
+      internalID: -419475647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExampleBlack_clipdrop-background-removal_6
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 245
+        width: 60
+        height: 82
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260ab95cc02fd5942bab9c8565f7f684
+      internalID: 1405308682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExampleBlack_clipdrop-background-removal_7
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 166
+        width: 60
+        height: 79
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb9765aec3243346812dae0c49318d9
+      internalID: -1556269184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExampleBlack_clipdrop-background-removal_8
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 245
+        width: 60
+        height: 82
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7542bb614bd2dc44fa63d2580583a3ff
+      internalID: -84429156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExampleBlack_clipdrop-background-removal_9
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 248
+        width: 60
+        height: 78
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8e6f39532884d4796a1ffef71491ba
+      internalID: -1451300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExampleBlack_clipdrop-background-removal_11
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 246
+        width: 63
+        height: 81
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c690129c3578d994f97b07a2b57fb9a5
+      internalID: 1177806615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExampleBlack_clipdrop-background-removal_12
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 84
+        width: 59
+        height: 80
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff810a145c646c4b9670740d7ed66b8
+      internalID: 69227795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExampleBlack_clipdrop-background-removal_13
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 245
+        width: 60
+        height: 82
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91632dba66b472a44b6fd6ced7363c3a
+      internalID: 793420842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExampleBlack_clipdrop-background-removal_14
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 83
+        width: 59
+        height: 80
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e9d8a979eed5c47801bc32d39c2584
+      internalID: -1172664688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExampleBlack_clipdrop-background-removal_15
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 245
+        width: 59
+        height: 82
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8915720475542a64e9d17813172c038f
+      internalID: 901852904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExampleBlack_clipdrop-background-removal_16
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1
+        width: 60
+        height: 81
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b742819568997489d82a5109a64574
+      internalID: 260628315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExampleBlack_clipdrop-background-removal_17
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1
+        width: 60
+        height: 81
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129082cb31017f5438027a273ef4abd7
+      internalID: -141068286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExampleBlack_clipdrop-background-removal_18
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 85
+        width: 59
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ac45480c09c6848a2b2de688a44b63
+      internalID: 600462402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExampleBlack_clipdrop-background-removal_19
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 84
+        width: 59
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d0f9704ed10784998aa257d64753f4
+      internalID: 71104200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExampleBlack_clipdrop-background-removal_20
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 166
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e730ae1721f657042a47e0d64ac1129c
+      internalID: -1184010198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExampleBlack_clipdrop-background-removal_21
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 164
+        width: 60
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554873f685a29584782875bd8122d9cc
+      internalID: -1302734766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExampleBlack_clipdrop-background-removal_22
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 84
+        width: 61
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf2dbecc3bf0fe4387db53e593443f1
+      internalID: -2090583467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExampleBlack_clipdrop-background-removal_23
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 166
+        width: 57
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3b75025366d444c9279e6818d3994a
+      internalID: -529856412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExampleBlack_clipdrop-background-removal_24
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 84
+        width: 58
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d6f37b1aff1e34a99a5ef1c5979798
+      internalID: 1230754164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExampleBlack_clipdrop-background-removal_25
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 5
+        width: 57
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cee519367bd31048a6eb9a3f8b9ed8f
+      internalID: -1748072476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExampleBlack_clipdrop-background-removal_26
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 168
+        width: 58
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff241b5ac554ee4490db5d2a7cc6897
+      internalID: -1242601998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExampleBlack_clipdrop-background-removal_27
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 86
+        width: 61
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed74f5af660d1b14981ce367d56c341c
+      internalID: 1193435848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExampleBlack_clipdrop-background-removal_28
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 3
+        width: 60
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb72a4eef636b724aaf9a7ce93ae527f
+      internalID: -848097168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExampleBlack_clipdrop-background-removal_29
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 85
+        width: 60
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885b6a345580cf64b852c3050da267df
+      internalID: 694588858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExampleBlack_clipdrop-background-removal_30
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 4
+        width: 57
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcf4e63e3cd82845875b0019e8292fa
+      internalID: -429933332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExampleBlack_clipdrop-background-removal_31
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 168
+        width: 62
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b4842f42340794a895971a54dffb31
+      internalID: -156315299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExampleBlack_clipdrop-background-removal_32
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 85
+        width: 60
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85414b29338ba554d836b925e6ba9a8d
+      internalID: -926859084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExampleBlack_clipdrop-background-removal_33
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 5
+        width: 58
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf1c49a90c55d648b56305d56bdc9bb
+      internalID: 394915504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExampleBlack_clipdrop-background-removal_10
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 166
+        width: 60
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2928e95f72072894bbd87c6fc060c829
+      internalID: 438586790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExampleBlack_clipdrop-background-removal_34
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 166
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c838f894bd3a3468deb3d3c59eb4e8
+      internalID: 87971320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExampleBlack_clipdrop-background-removal_35
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 166
+        width: 61
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f740e712de104e4ea32318ad875c311
+      internalID: 826646769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExampleBlack_clipdrop-background-removal_36
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 84
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe323d59dd00ab4ebfd0b6fe7007026
+      internalID: 1833732696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ExampleBlack_clipdrop-background-removal_0: 1191625715
+      ExampleBlack_clipdrop-background-removal_1: 662973537
+      ExampleBlack_clipdrop-background-removal_10: 438586790
+      ExampleBlack_clipdrop-background-removal_11: 1177806615
+      ExampleBlack_clipdrop-background-removal_12: 69227795
+      ExampleBlack_clipdrop-background-removal_13: 793420842
+      ExampleBlack_clipdrop-background-removal_14: -1172664688
+      ExampleBlack_clipdrop-background-removal_15: 901852904
+      ExampleBlack_clipdrop-background-removal_16: 260628315
+      ExampleBlack_clipdrop-background-removal_17: -141068286
+      ExampleBlack_clipdrop-background-removal_18: 600462402
+      ExampleBlack_clipdrop-background-removal_19: 71104200
+      ExampleBlack_clipdrop-background-removal_2: -182049172
+      ExampleBlack_clipdrop-background-removal_20: -1184010198
+      ExampleBlack_clipdrop-background-removal_21: -1302734766
+      ExampleBlack_clipdrop-background-removal_22: -2090583467
+      ExampleBlack_clipdrop-background-removal_23: -529856412
+      ExampleBlack_clipdrop-background-removal_24: 1230754164
+      ExampleBlack_clipdrop-background-removal_25: -1748072476
+      ExampleBlack_clipdrop-background-removal_26: -1242601998
+      ExampleBlack_clipdrop-background-removal_27: 1193435848
+      ExampleBlack_clipdrop-background-removal_28: -848097168
+      ExampleBlack_clipdrop-background-removal_29: 694588858
+      ExampleBlack_clipdrop-background-removal_3: 1034313534
+      ExampleBlack_clipdrop-background-removal_30: -429933332
+      ExampleBlack_clipdrop-background-removal_31: -156315299
+      ExampleBlack_clipdrop-background-removal_32: -926859084
+      ExampleBlack_clipdrop-background-removal_33: 394915504
+      ExampleBlack_clipdrop-background-removal_34: 87971320
+      ExampleBlack_clipdrop-background-removal_35: 826646769
+      ExampleBlack_clipdrop-background-removal_36: 1833732696
+      ExampleBlack_clipdrop-background-removal_4: -1894192718
+      ExampleBlack_clipdrop-background-removal_5: -419475647
+      ExampleBlack_clipdrop-background-removal_6: 1405308682
+      ExampleBlack_clipdrop-background-removal_7: -1556269184
+      ExampleBlack_clipdrop-background-removal_8: -84429156
+      ExampleBlack_clipdrop-background-removal_9: -1451300128
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

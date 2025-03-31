@@ -1,0 +1,1697 @@
+fileFormatVersion: 2
+guid: 849020d151921fb40a02742942bec81b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58dab09da33412345a8e8c9b5c24f35d
+      internalID: -921679721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 134
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ee30150387a88478ee6a19c49d13ed
+      internalID: -870088742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 133
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47879bf7d6107243827ff7c771081da
+      internalID: 999687581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 174
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c231661709b63d148834b8ca59f4f7b8
+      internalID: 310352433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 153
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9821559bb268007408ababb829944438
+      internalID: -1835144676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 174
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37bcd7fab95e4348b9fd6a46026b411
+      internalID: -265506705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 174
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c4162fa2fa7974994ccb00cdb9cbed
+      internalID: 269127663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 132
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187bbaeba0dec3248bd1fba7fea1951e
+      internalID: -96487320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 69
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5a768d396d8f34b97640333762682d
+      internalID: -1746542075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 132
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c0758c26a46c14da0b36fc56b0fe55
+      internalID: 1279974069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 70
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c9e7ece9c401c4bbe1deb03634d02f
+      internalID: 2046145162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 71
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683bdd0617e1194468a0ad3cd15854be
+      internalID: 1154965420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 68
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfdc2059b99f914eba3da4d19ee926a
+      internalID: 1653165688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 181
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4a35b01a301a949aca238c3b673db5
+      internalID: 660439329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 174
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7efca044147b94b9582ea6080649e2
+      internalID: 1345368728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 153
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c558cd88a264ed64e8bb9f0ad82d5a66
+      internalID: 238945485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 132
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ba66f15c30c89419913fc25fbd304e
+      internalID: 277247488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 132
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c004c3fea0a844e4ea87f9ddbb5d3d66
+      internalID: 1300944843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 153
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80530a8e6c5b0f40b776046e4079fb8
+      internalID: -342854687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 174
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42013208d9a9e234987516edb16eaecf
+      internalID: 82107031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 174
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadf336866abe8741ae6761ba315c6ca
+      internalID: -1423771993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 153
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2118b0a51f003ff4fa5bda0c3d5f25fb
+      internalID: 844272739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 132
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c42aa9c4b16e94084050251331079a
+      internalID: -1410875751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 153
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a61068119c602d49b6a06f546c0bad4
+      internalID: 132893535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 174
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9032389a73bebf144b53cdaa4b919e8c
+      internalID: -48425694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 153
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c16048724515ba4f8c15c8aa7988e44
+      internalID: -205373076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 153
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf75de193e924e949be83726cb771f91
+      internalID: -1609894354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 132
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3393800d70cbdc4ebb4572095091022
+      internalID: 2048359437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 132
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a934e9844fbe9fc47a730485988cc33a
+      internalID: 761959612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 174
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed4abaa1dbcd8749a6ca0fc8ee5a9f0
+      internalID: 815671211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 174
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2def965527f126449893992697a56b0
+      internalID: -141921212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 153
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e574ee41bcba46244a2a9201c9316737
+      internalID: -718712779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 153
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af8c6a16da6df64188ac85ad2e53c03
+      internalID: 964912694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 132
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656951a55fa65854c9a90f375c5f548b
+      internalID: -338322350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 132
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b5c420ebc7813488b094be5abedfde
+      internalID: -780285770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 68
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bbf400f72b0f64499b065fb0b4c288
+      internalID: 1165483946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 174
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373af0f3c7d2d5944aac7f1662b22961
+      internalID: 1359201833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 153
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf429bd9a3bb5d4c8dea2168e47c5f6
+      internalID: -1118618535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 133
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a197e8196ede394cabea3e56cdc03c0
+      internalID: -1402165082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 153
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91e93c873175564899b6fdee65dd9e5
+      internalID: 2051050546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 174
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e21c53b25c882340b2888595c9901c2
+      internalID: -103085342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 174
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460c0b7de36b8154780b5898ddb3fe31
+      internalID: -139130308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 153
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7109c3f7e2c1ba041aa3e21edb382b93
+      internalID: -509302307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 133
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6514ce3ccdaf4b4094212cb760706d1
+      internalID: -456119831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 154
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444ab83c65035184c83c46e98bb8d2e8
+      internalID: 1551979014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 174
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2c50d88a4919742a1fe64c17f5697a
+      internalID: -1503321048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 174
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213b02d67c11aca428701b4880666ff9
+      internalID: -1389828793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 154
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6673e4037111c1448a4f201a528e480c
+      internalID: -1839687220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 134
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0853a09700d3866489a9f11d6d48d185
+      internalID: -595981330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 174
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aab91119123be94a91ad28482849273
+      internalID: -301263053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 154
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d527c093a84eeef429d8fae16559724b
+      internalID: 1996968087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 134
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d67f157036f354b90a79e6f7209f86
+      internalID: -1527843233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 174
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beac5c7a54ac16546815308ddac25178
+      internalID: -523755783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 174
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27728075233b0764a8c2ce70efb980ee
+      internalID: -1497267180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 174
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9402d10aee130464b93a1e03c6db2828
+      internalID: -373380264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 153
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f36191e43a42040a9ddd740389d379
+      internalID: -1608861988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 153
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d898b4c1644bdd54e88d9b812f23cfb3
+      internalID: 611395643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 153
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ec016ca8c82d74eb0cbfe27ab26ed0
+      internalID: 667437357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 132
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c54381419bdc64fba1f8452eaab27d
+      internalID: 1493836641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 132
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fd3f3a5a485db43981d56633eec7ed
+      internalID: -1808898609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 132
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde65b49d56fe48448b56aeea0180881
+      internalID: 1412703436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 70
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f160a2aeaf9c58b40887dad8e21b605f
+      internalID: -1002727553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 174
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714284f6b32d73c45bfeb099bba458ab
+      internalID: -528446310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 153
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536f580bb6b23e240adf2da315f052bc
+      internalID: -51079205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 134
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650cadf701d636f4f889515d33dd3f06
+      internalID: 1697263254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 174
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b76dc8181eb8a42aeb0f5581ec6df9
+      internalID: -1515192869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 174
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a1d8e9a1e63554286f1848006feca9
+      internalID: -78747764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 153
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520412962c4d22540a9f3d8b2c1487aa
+      internalID: -1788843399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 154
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f2efe0b0c1d85449c9c96c60844d74
+      internalID: -2031631282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_69
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 134
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3001758bc4645bf42a4c73fe8b745846
+      internalID: -1296146351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 134
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05225f2a94438ef43b8ddcc05f5767e8
+      internalID: -778890293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_0: -921679721
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_1: -870088742
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_10: 1279974069
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_11: 2046145162
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_12: 1154965420
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_13: 1653165688
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_14: 660439329
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_15: 238945485
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_16: 277247488
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_17: 1300944843
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_18: -342854687
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_19: 82107031
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_2: 999687581
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_20: -1423771993
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_21: 844272739
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_22: -1410875751
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_23: 132893535
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_24: -48425694
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_25: -205373076
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_26: -1609894354
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_27: 2048359437
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_28: 761959612
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_29: 815671211
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_3: 310352433
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_30: -141921212
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_31: -718712779
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_32: 964912694
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_33: -338322350
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_34: -780285770
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_35: 1165483946
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_36: 1359201833
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_37: -1118618535
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_38: -1402165082
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_39: 2051050546
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_4: -1835144676
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_40: -103085342
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_41: -139130308
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_42: -509302307
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_43: -456119831
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_44: 1551979014
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_45: -1503321048
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_46: -1389828793
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_47: -1839687220
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_48: -595981330
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_49: -301263053
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_5: -265506705
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_50: 1996968087
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_51: -1527843233
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_52: -523755783
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_53: -1497267180
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_54: -373380264
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_55: -1608861988
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_56: 1741759274
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_57: 611395643
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_58: 524772540
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_59: -1551124754
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_6: 269127663
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_60: 667437357
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_61: 1493836641
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_62: -1808898609
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_63: 1412703436
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_64: -1002727553
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_65: -528446310
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_66: -51079205
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_67: 1697263254
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_68: -1515192869
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_69: -78747764
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_7: 1345368728
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_70: -1788843399
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_8: -96487320
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Frontier_Brains-removebg-preview_9: -1746542075
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1125 @@
+fileFormatVersion: 2
+guid: b50b1a9a99489c54292542252958d5d0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 55
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520e63b3fac40ef4fac28e607e3e6aee
+      internalID: 1853505378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 156
+        width: 25
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e66aed56d8ee142b405faefff3bb8e
+      internalID: -1871085478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 99
+        width: 57
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bc6c5f9166cb14aa5daa630f6f71e3
+      internalID: 1566143317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 207
+        width: 75
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ff91fbdc94b724d8dcd8d3826f392e
+      internalID: -1205670560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 203
+        width: 62
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434462193ed14e34e9dc1d8226211982
+      internalID: 1703929379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 164
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56872c2ba9017c449020c6581d15fc5
+      internalID: -1883003749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 164
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba9a2ea4f9d77f45b4c8353b05a03c2
+      internalID: -680070331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 172
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a1e5d772be4b247bc8b6c00202e27b
+      internalID: -241763488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 102
+        width: 181
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f013ad514f98241b19b409fdd941a0
+      internalID: -236062404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 27
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1966c81ee828bcd40a3b08e5e081196e
+      internalID: 1940856485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 70
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6670c90b231f648bbc2df279f8e100
+      internalID: -1256722804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 70
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4cd2ea7622c94049ba4a541eaf76e28
+      internalID: -129806789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 63
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5111f163785f3be4b956724c9cbf1281
+      internalID: -1078785400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 61
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec2c684b6e0cae4d9388a5f43fcefa1
+      internalID: -969411076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 65
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471e491a8a9652240a1b39ab17b8311e
+      internalID: 1815581757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 70
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c6947d8a753274c9fa6d8fba53ccb3
+      internalID: 1893494163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 70
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bca53ce4100d842ac9f396d7ea2d8f
+      internalID: 903044239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 70
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b064b8ccc52ac9345aa0b4164b8e2059
+      internalID: -273122722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 70
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1983e3b179814449ae6da8acc5fa65c
+      internalID: -1135711109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 70
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34c644645ea4094194d270ce0f8f426
+      internalID: 704498604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 70
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f84f4b1fe38cd44d9511a1e220cbf1e
+      internalID: 1923070193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 70
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e297ce270cdfba4da5593087dc34f06
+      internalID: 1238876300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed2e7af7a1691f4b9488916128a7837
+      internalID: 693329374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42c4df7107dd1d4d9b5d77effe87541
+      internalID: -382945500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac48d74d8b283f4293be7e09796091c
+      internalID: -95303962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232cf82af2e84e24baa2d649b27e1f94
+      internalID: -981499927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 45
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819dd8ae4afcf2f40a526a40bb521791
+      internalID: -660314777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb5abc9985650f48aff06d3095d7449
+      internalID: -715988597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 207
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c4d287a7e99094fad5bd332c2cb0e0
+      internalID: 657152396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 207
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2703feebab623654a94b3ffaf2b3f80c
+      internalID: 835256077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 185
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c23c8470431864e95b5e2c3fcc958e
+      internalID: -1661098812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 185
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c24e80c2b7fa7409f610b5d5a077a4
+      internalID: -1279600911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 185
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f13bece02cd924bb7dc413aa8a8c9c
+      internalID: 270815501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 163
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650e142fe3652d9439aa50636bb4df10
+      internalID: -800262943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 162
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e3b2eb872c0054d9aefc277b579449
+      internalID: 1999591696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70344f141a21ae44cb00bfa87c8ed689
+      internalID: -851232527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 142
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d9e6432bd88c348a2afb6af076baca
+      internalID: -34260891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 142
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0a642cb9ca4dc4ab5deea89b0a37b7
+      internalID: -1967518235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 142
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2c8a537a7757b4c91cc14f6970450b
+      internalID: -1238088678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 122
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec6beaacdcd68549af9baac5c19056f
+      internalID: 1078161730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 122
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d823bd0b3a2ba8e4fbc4bc21eb5dca6f
+      internalID: -1068507609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476761bbb1457ce41b377fc88e2a2d63
+      internalID: 1257069874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 101
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2999b1403df76a646a15ea2064b629ae
+      internalID: -1820235359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 101
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666d87ab7e91c014d8f38715c9175de3
+      internalID: -301277116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ae1498efed078489f697fe62b6f06a
+      internalID: -1437083374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_0: -715988597
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_1: 1853505378
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_10: 1940856485
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_11: -1256722804
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_12: -129806789
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_13: -1078785400
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_14: -969411076
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_15: 1815581757
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_16: 1893494163
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_17: 903044239
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_18: -273122722
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_19: -1135711109
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_2: -1871085478
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_20: 704498604
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_21: 1923070193
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_22: 1238876300
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_23: 693329374
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_24: -382945500
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_25: -95303962
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_26: -981499927
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_27: -660314777
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_28: 657152396
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_29: 835256077
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_3: 1566143317
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_30: -1661098812
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_31: -1279600911
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_32: 270815501
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_33: -800262943
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_34: 1999591696
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_35: -851232527
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_36: -34260891
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_37: -1967518235
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_38: 2111393913
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_39: -1238088678
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_4: -1205670560
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_40: 1078161730
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_41: -1068507609
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_42: 1257069874
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_43: -1820235359
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_44: -301277116
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_5: 1703929379
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_6: -1883003749
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_7: -680070331
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_8: -241763488
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Brendan-removebg-preview_9: -236062404
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

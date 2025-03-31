@@ -1,0 +1,509 @@
+fileFormatVersion: 2
+guid: 6d2ce3d7a47717940b15df1fbfca2e43
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Steven-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 99
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713a881ad5af89b419ccb8d098f645f8
+      internalID: -2063200214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Steven-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 99
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5ad55542f2f424e954cb80b15475fb
+      internalID: -281626035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Steven-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 99
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c7abc2af5fd5641b10f6edac883a68
+      internalID: 1805637452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Steven-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 99
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bbf4930c9035f4dabded0bba75cd23
+      internalID: -1418506681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Steven-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 91
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5f27290e1f100448f998932fbac85b
+      internalID: -1402585007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Steven-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 141
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217f00f638a46b4449b01e60cde07fba
+      internalID: 39582481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Steven-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 141
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb86606e5d126f4f9cec8844abb6c5d
+      internalID: -1301765315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Steven-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 141
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794998bb2f9ca6f49a08924bf3376d25
+      internalID: 630546435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Steven-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 116
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1344cc7e0290cd54aafd4941938fda51
+      internalID: -2131389362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Steven-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 116
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2028e6c0660de92419b3c05717f33f32
+      internalID: 1596030920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Steven-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 116
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8599de08fec2cae42a2863b2fce7e0c7
+      internalID: 1216863162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Steven-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 90
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6de9be837aa2be43a67bc046eea2a0d
+      internalID: -770957467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Steven-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 90
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792b41c0bfea68649b44fd2079096b47
+      internalID: 771628802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Steven-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 90
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c71e446f387c64fa55b8fb2729fc95
+      internalID: -377469447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Steven-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 28
+        width: 148
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960b4bc56058f144ba34f015e1ffcc06
+      internalID: -1568370190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Steven-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 35
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97c2ca880407bc4380c9591632b04e8
+      internalID: 1979641323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Pokemon_Emerald_-_Steven-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 7
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed808a3623e62f346a080d741c42a114
+      internalID: -1463189605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Steven-removebg-preview_0: -2063200214
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Steven-removebg-preview_1: -281626035
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Steven-removebg-preview_10: 1216863162
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Steven-removebg-preview_11: -770957467
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Steven-removebg-preview_12: 771628802
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Steven-removebg-preview_13: -377469447
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Steven-removebg-preview_14: -1568370190
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Steven-removebg-preview_15: 1979641323
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Steven-removebg-preview_16: -1463189605
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Steven-removebg-preview_2: 1805637452
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Steven-removebg-preview_3: -1418506681
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Steven-removebg-preview_4: -1402585007
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Steven-removebg-preview_5: 39582481
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Steven-removebg-preview_6: -1301765315
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Steven-removebg-preview_7: 630546435
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Steven-removebg-preview_8: -2131389362
+      Game_Boy_Advance_-_Pokemon_Emerald_-_Steven-removebg-preview_9: 1596030920
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
