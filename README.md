@@ -17,4 +17,4 @@
   <li>Arena</li>
   <li>GameCenter</li>
 </ul>
-
+<h4>Screen Resolution: 1100*600</h4>
