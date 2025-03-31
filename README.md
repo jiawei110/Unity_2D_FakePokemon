@@ -10,3 +10,11 @@
 [I don't know what will be affected if you use Unity6 to open. You can try~]
 
 <h3>Package download : <a href="https://drive.google.com/drive/folders/1nx1EaKyEUD1XWANcdiADYC8ohV4B8QZC?usp=drive_link">Shared Drive</a></h3>
+
+<h3>Scene Unused: </h3>
+<ul>
+  <li>School</li>
+  <li>Arena</li>
+  <li>GameCenter</li>
+</ul>
+
